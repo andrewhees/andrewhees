@@ -4,7 +4,7 @@
 💡 I love bringing new ideas to life through code. <br>
 📖 Every day for me is an opportunity to learn something new. <br>
 📫 How to contact me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 [Email](andrewhees@gmail.com) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 [Email](mailto:andrewhees@gmail.com) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👔 [LinkedIn](https://www.linkedin.com/in/andrew-hees) <br>
 ## :toolbox: My Toolbox
 ---
