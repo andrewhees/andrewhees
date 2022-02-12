@@ -1,3 +1,5 @@
+![Code](https://wallpaperaccess.com/full/832357.jpg)
+
 ### Hello! :wave: I'm Andrew Hees, a Full Stack Developer. Welcome to my page! <br>
 📍 Currently located in Long Island, NY. <br>
 💻 Full Stack Developer looking for my next step in the Software industry. <br>
