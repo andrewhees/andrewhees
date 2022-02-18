@@ -1,6 +1,4 @@
-<!-- ![Code](https://wallpaperaccess.com/full/832357.jpg) <br> -->
-
-<img src="https://wallpaperaccess.com/full/832357.jpg" alt="HTML5 Logo" width="700" height=auto/>
+![eatSleepCodeRepeat_resized](https://user-images.githubusercontent.com/93931926/154740178-ed55493f-d4b7-4d3f-9c54-71a9d191cfc2.jpg)
 
 ### Hello! :wave: I'm Andrew Hees, a Full Stack Developer. Welcome to my page! <br>
 📍 Currently located in Long Island, NY. <br>
