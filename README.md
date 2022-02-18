@@ -2,7 +2,7 @@
 
 ### Hello! :wave: I'm Andrew Hees, a Full Stack Developer. Welcome to my page! <br>
 📍 Currently located in Long Island, NY. <br>
-💻 Full Stack Developer looking for my next step in the Software industry. <br>
+💻 Full Stack Developer looking for my next step in the Software Development industry. <br>
 💡 I love bringing new ideas to life through code. <br>
 📖 Every day is an opportunity to learn something new. <br>
 ###### 📫 How to contact me: <br>
